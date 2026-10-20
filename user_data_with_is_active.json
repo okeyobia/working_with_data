@@ -1,0 +1,23 @@
+[
+  {
+    "id":1,
+    "name":"Alice Johnson",
+    "email":"alice.johnson@example.com",
+    "signup_date":"2023-01-15",
+    "is_active":true
+  },
+  {
+    "id":2,
+    "name":"Bob Smith",
+    "email":"bob.smith@example.com",
+    "signup_date":"2023-02-10",
+    "is_active":true
+  },
+  {
+    "id":3,
+    "name":"Carol Lee",
+    "email":"carol.lee@example.com",
+    "signup_date":"2023-03-05",
+    "is_active":true
+  }
+]
