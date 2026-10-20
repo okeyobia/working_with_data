@@ -1,0 +1,11 @@
+order_id,customer_id,product,category,quantity,price,order_date
+1001,501,Wireless Mouse,Electronics,2,25.99,2024-04-01
+1002,502,Running Shoes,Sportswear,1,75.50,2024-04-02
+1003,503,Coffee Maker,Home Appliances,1,45.00,2024-04-02
+1004,501,USB-C Cable,Electronics,3,10.00,2024-04-03
+1005,504,Yoga Mat,Sportswear,1,20.00,2024-04-04
+1006,505,Blender,Home Appliances,1,60.00,2024-04-05
+1007,506,Smartphone,Electronics,1,699.99,2024-04-05
+1008,507,Water Bottle,Sportswear,4,8.00,2024-04-06
+1009,508,Microwave Oven,Home Appliances,1,120.00,2024-04-07
+1010,502,Headphones,Electronics,2,45.99,2024-04-08
